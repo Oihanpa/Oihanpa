@@ -1,0 +1,127 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial;
+    padding: 10px;
+    background-image: url(Img/football-soccer-green-grass-texture-background-high-50744777.jpg)
+  }
+  image{
+    width: 100%;
+  }
+  .Titulo {
+    padding: 30px;
+    text-align: center;
+    background: white;
+  }
+  
+  .Titulo h1 {
+    font-size: 50px;
+  }
+  
+  .Taskbar {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .Taskbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 2s;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(0, 0, 0);
+  }
+  
+  .leftcolumn {  
+    float: left;
+    width: 75px;
+  }
+  
+  .rightcolumn {
+    float: left;
+    width: 25px;
+    background-color: #ffffff;
+    padding-left: 20px;
+  }
+
+.img1{
+  width: 300px;
+  height: 200px;
+  margin: 20px;
+}
+.img2{
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    float: left;
+    margin: 20px;
+    background-color: #ffffff;
+}
+.img3{
+      width: 150px;
+      height: 100px;
+      float: left;
+      background-color: #ffffff;
+}
+.img4{
+  width: 225px;
+  margin: 20px
+}
+.img5{
+  position: absolute;
+  margin-top: 20px;
+  width: 172px;
+}
+.img6{
+  position:absolute;
+  margin-top: 20px;
+  margin-left: 195px;
+}
+.img7{
+  position: absolute;
+  margin-top: 285px;
+  margin-left: -245px;
+  width: 225;
+}
+.img8{
+  position: absolute;
+  margin-top: 285px;
+  width: 200px;
+}
+.img9{
+  position: absolute;
+  margin-top: 285px;
+  margin-left: 220px;
+  width: 225px;
+}
+.leftcolumn, .rightcolumn {  
+      width: 100%;
+      padding: 0;
+    }
+    input[type=text] {
+      width: 100px;
+      padding: 5px;
+      margin: 10px 10;
+      box-sizing: border-box;
+    }
+    .Tailak {
+      width: 75%;
+      margin-top: 20px;
+      margin-left: -500px; 
+    }
+    .Tailak2 {
+      float: left;
+      width: 25%;
+      margin-top: 6px;
+    }
+    form{
+      color: whitesmoke;
+    }
